@@ -12,12 +12,8 @@ struct SandwichDetail: View {
     var body: some View {
         VStack{
             Image(sandwich.imageName).resizable().aspectRatio(contentMode: .fit)
-            Text(sandwich.name)
-                .font(.largeTitle)
-                .fontWeight(.semibold)
-                .multilineTextAlignment(.center)
         }
-                
+        .navigationTitle(sandwich.name)
     }
     
 }

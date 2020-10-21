@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		630EDB912540BD6D0042AB4C /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 630EDB902540BD6D0042AB4C /* Data.swift */; };
 		63347113253F6AB900D639F2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63347112253F6AB900D639F2 /* AppDelegate.swift */; };
 		63347115253F6AB900D639F2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63347114253F6AB900D639F2 /* SceneDelegate.swift */; };
 		63347117253F6AB900D639F2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63347116253F6AB900D639F2 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		630EDB902540BD6D0042AB4C /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		6334710F253F6AB900D639F2 /* ios-swiftui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-swiftui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63347112253F6AB900D639F2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		63347114253F6AB900D639F2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				63347112253F6AB900D639F2 /* AppDelegate.swift */,
 				63347114253F6AB900D639F2 /* SceneDelegate.swift */,
 				63347116253F6AB900D639F2 /* ContentView.swift */,
+				630EDB902540BD6D0042AB4C /* Data.swift */,
 				63347118253F6ABE00D639F2 /* Assets.xcassets */,
 				6334711D253F6ABE00D639F2 /* LaunchScreen.storyboard */,
 				63347120253F6ABE00D639F2 /* Info.plist */,
@@ -148,6 +151,7 @@
 				63347113253F6AB900D639F2 /* AppDelegate.swift in Sources */,
 				63347115253F6AB900D639F2 /* SceneDelegate.swift in Sources */,
 				63347117253F6AB900D639F2 /* ContentView.swift in Sources */,
+				630EDB912540BD6D0042AB4C /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

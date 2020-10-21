@@ -15,22 +15,5 @@ struct Sandwich: Identifiable {
 
 let dummyData = [
     Sandwich(name: "bob"),
-    Sandwich(name: "bob"),
-    Sandwich(name: "bob"),
-    Sandwich(name: "bob"),
-    Sandwich(name: "bob"),
-    Sandwich(name: "bob"),
-    Sandwich(name: "bob"),
-    Sandwich(name: "bob"),
-    Sandwich(name: "bob"),
-    Sandwich(name: "bob"),
-    Sandwich(name: "bob"),
-    Sandwich(name: "bob"),
-    Sandwich(name: "bob"),
-    Sandwich(name: "bob"),
-    Sandwich(name: "bob"),
-    Sandwich(name: "bob"),
-    Sandwich(name: "bob"),
-    Sandwich(name: "bob"),
-    Sandwich(name: "bob")
+    Sandwich(name: "bill")
 ]
